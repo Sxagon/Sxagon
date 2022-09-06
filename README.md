@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-### Hello there 👋
+# Hello there 👋<br/>
 I'm Sxagon ᴰᵉᵛ [Mike].<br/><br/>
 I programming mainly in PHP in a framework called Laravel + Inertia.
 But I also write in JS/TS and C#.
