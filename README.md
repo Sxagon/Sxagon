@@ -2,9 +2,9 @@
 
 # Hello there 👋<br/>
 My name is Sxagon ᴰᵉᵛ [Mike].<br/><br/>
-> I am a student
-> I'm programming a websites in PHP, TS and Vuejs in a framework Laravel + Inertia
-> I'm programming a Discord bots in JS/TS
+- I am a student
+- I'm programming a websites in PHP, TS and Vuejs in a framework Laravel + Inertia
+- I'm programming a Discord bots in JS/TS
 
 ### My main project
-> This project have a name sxagon-universe.com
+- This project have a name sxagon-universe.com
