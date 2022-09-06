@@ -7,4 +7,5 @@ My name is Sxagon ᴰᵉᵛ [Mike].<br/><br/>
 - I'm programming a Discord bots in JS/TS
 
 ### My main project
-- This project have a name sxagon-universe.com
+- This project is called sxagon-universe.com
+url: https://www.sxagon-universe.com
