@@ -4,5 +4,5 @@ My name is Mike "Sxagon ᴰᵉᵛ"<br/><br/>
 - Solo, never in a team
 - I'm programming in Laravel, Inertia, Vue, React, JavaScript, TypeScript and more...
 
-My Discord is: Sxagon ᴰᵉᵛ#1825
+My Discord is: Sxagon ᴰᵉᵛ#1825<br/>
 My Email is: sxagondev@gmail.com
