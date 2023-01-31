@@ -1,5 +1,3 @@
-![](https://media.tenor.com/brlIhh4QroIAAAAd/venom-treasure-island.gif)
-
 # Hello there 👋<br/>
 My name is Mike "Sxagon ᴰᵉᵛ"<br/><br/>
 - Application developer
