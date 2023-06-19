@@ -1,7 +1,10 @@
-```js
-import { Profile, Language } from 'identity';
+# I am a Software Developer
+## Since 2019 
 
-export const Naamloos : Profile = {
+```js
+import { Profile, Language, Contacts } from 'identity';
+
+export const Sxagon : Profile = {
   name: "Mike",
   username: "Sxagon",
   programmingLanguages: [
@@ -19,6 +22,11 @@ export const Naamloos : Profile = {
   jobInfo: {
     role: "Software Developer",
     company: "Seadragon.pro"
-  }
+  },
+  contacts: [
+    { type: "email", contact: "contact@sxagon.eu" },
+    { type: "discord", contact: "sxagondev", description: "Yeah, my tag is gone" },
+    { type: "instagram", contact: "@sxagondev" }
+  ]
 }
 ```
