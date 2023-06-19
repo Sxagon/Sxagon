@@ -1,8 +1,24 @@
-# Hello there 👋<br/>
-My name is Mike "Sxagon ᴰᵉᵛ"<br/><br/>
-- Application developer
-- Solo, never in a team
-- I'm programming in Laravel, Inertia, Vue, React, JavaScript, TypeScript and more...
+```js
+import { Profile, Language } from 'identity';
 
-My Discord is: Sxagon ᴰᵉᵛ#1825<br/>
-My Email is: sxagondev@gmail.com
+export const Naamloos : Profile = {
+  name: "Mike",
+  username: "Sxagon",
+  programmingLanguages: [
+    { language: "PHP", proficiency: "High", description: "Just laravel with inertia" },
+    { language: "TypeScript/JavaScript", proficiency: "Medium" },
+    { language: "Java", proficiency: "Medium" },
+    { language: "Python", proficiency: "Medium" },
+    { language: "C#", proficiency: "Low" },
+  ],
+  spokenLanguages: [
+    Language.English, 
+    Language.Czech, 
+    Language.Slovakia
+  ],
+  jobInfo: {
+    role: "Software Developer",
+    company: "Seadragon.pro"
+  }
+}
+```
