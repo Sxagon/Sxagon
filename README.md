@@ -2,7 +2,7 @@
 ## Since 2019 
 
 ```js
-import { Profile, Language, Contacts } from 'identity';
+import { Profile, Language } from 'identity';
 
 export const Sxagon : Profile = {
   name: "Mike",
