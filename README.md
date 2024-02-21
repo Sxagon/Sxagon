@@ -10,18 +10,19 @@ export const Sxagon : Profile = {
   programmingLanguages: [
     { language: "PHP", proficiency: "High", description: "Just laravel with inertia" },
     { language: "TypeScript/JavaScript", proficiency: "Medium" },
-    { language: "Java", proficiency: "Medium" },
+    { language: "Java", proficiency: "Low" },
     { language: "Python", proficiency: "Medium" },
     { language: "C#", proficiency: "Low" },
   ],
   spokenLanguages: [
     Language.English, 
     Language.Czech, 
-    Language.Slovakia
+    Language.Slovakia,
+    Language.Poland
   ],
   jobInfo: {
-    role: "Software Developer",
-    company: "Seadragon.pro"
+    role: "CEO & Developer",
+    company: "BatCore.eu"
   },
   contacts: [
     { type: "email", contact: "contact@sxagon.eu" },
