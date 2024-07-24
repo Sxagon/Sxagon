@@ -1,5 +1,5 @@
 <h1>Hello 👋</h1>
-<h3 style="margin-top: -20px;">My name is Mike and I am a fullstack developer since 2019</h3>
+<h3 style="margin-top: -20px;">My name is Michal btw.</h3>
 
 <br>
 
@@ -10,17 +10,17 @@ export const Sxagon : Profile = {
   name: "Michal",
   username: "Sxagon",
   programmingLanguages: [
-    { language: "PHP", proficiency: "High", description: "Just laravel with inertia" },
+    { language: "PHP", proficiency: "High", description: "Just laravel with inertia, omg" },
     { language: "TypeScript", proficiency: "Medium" },
     { language: "Java", proficiency: "Very low" },
-    { language: "Python", proficiency: "Medium" },
+    { language: "Python", proficiency: "Low" },
     { language: "C#", proficiency: "Low" }
   ],
   spokenLanguages: [
     Language.English, 
     Language.Czech, 
     Language.Slovakia,
-    Language.Polish
+    Language.Polish // hmm, i am not sure about that...
   ],
   jobInfo: {
     role: "CEO & Developer",
