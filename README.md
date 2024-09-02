@@ -23,8 +23,8 @@ export const Sxagon : Profile = {
     Language.Polish // hmm, i am not sure about that...
   ],
   jobInfo: {
-    role: "CEO & Developer",
-    company: "BatCore.net"
+    role: "CEO",
+    company: "Batlify.com"
   },
   contacts: [
     { type: "email", contact: "contact@sxagon.eu" },
