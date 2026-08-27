@@ -1,32 +1,14 @@
-```js
-import { Profile, Language } from '@sxagondev/identity';
+# Michal Lipka
 
-export const Sxagon : Profile = {
-  realName: "Michal",
-  username: "Sxagon",
-  programmingLanguages: [
-    { language: "PHP", proficiency: "High" },
-    { language: "TypeScript", proficiency: "Medium" },
-    { language: "Java", proficiency: "Very low" },
-    { language: "Python", proficiency: "Low" },
-    { language: "C#", proficiency: "Low" },
-    { language: "N", proficiency: "Low rider"}
-  ],
-  spokenLanguages: [
-    Language.English, 
-    Language.Czech, 
-    Language.Slovakia,
-    Language.Polish, // hmm, i am not sure about that...
-    Language.Ukraine
-  ],
-  jobInfo: {
-    role: "CEO",
-    company: "Batlify Internet s.r.o."
-  },
-  contacts: [
-    { type: "email", contact: "lipka.michal@batlify.com" },
-    { type: "discord", contact: "sxagondev", description: "Yeah, my tag is gone" },
-    { type: "instagram", contact: "@sxagondev" }
-  ]
-}
-```
+**Software Developer**
+
+I’m a software developer interested in building software, systems and infrastructure.
+
+I primarily work with **PHP (Laravel) and TypeScript**, but choose the tools and technologies based on the problem rather than sticking to a single stack.
+
+I value clean code, practical architecture and solutions that are built to last.
+
+### Contact
+
+* **Email:** `lipka.michal@batlify.com`
+* **Discord:** `sxagondev` - I'm no longer active on Discord. Please use email instead.
